@@ -106,9 +106,9 @@ Reading input image
 # In this way image is opened already as numpy array
 # WARNING! OpenCV by default reads images in BGR format
 # Pay attention! If you're using Windows, the path might looks like:
-# r'images\woman-working-in-the-office.jpg'
+# r'images\trafficSign.jpg'
 # or:
-# 'images\\woman-working-in-the-office.jpg'
+# 'images\\trafficSign.jpg'
 image_BGR = cv2.imread('trafficSignDetection/images/test1.jpg')
 
 # Showing Original Image
