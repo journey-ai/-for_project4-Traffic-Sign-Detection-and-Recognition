@@ -14,6 +14,7 @@ Provided the theory behind YOLO networks as well as the code for building the im
 
 
 
+
 Alzaib
 
 https://github.com/Alzaib/Traffic-Signs-Detection-Tensorflow-YOLOv3-YOLOv4
@@ -23,3 +24,17 @@ Provided the traffic sign detection model
 
 
 
+Addison Sears-Collins
+
+https://automaticaddison.com/how-to-detect-and-classify-road-signs-using-tensorflow/
+
+Provided the code for training the traffic sign recognition model
+
+
+
+
+Muhammad Attaullah Bhatti
+
+https://muhammadattaullahbhatti.medium.com/traffic-signs-classification-using-convolution-neural-networks-cnn-or-convnets-35b6bf768bc7
+
+Provided the code for training the traffic sign recognition model
