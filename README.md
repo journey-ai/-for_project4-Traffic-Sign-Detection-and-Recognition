@@ -20,7 +20,7 @@ The program contains 2 neural networks:
 ![Example 3](/examples/3.jpg)
 
 ## Prerequisites:
-#### Weight File for traffic sign detection
+#### Weight File for traffic sign detection (necessary)
 Go to https://drive.google.com/drive/folders/1cJl0CUJXfGHbd7LQWa1pcOIzKLrf2jdf?usp=sharing
 
 Or  https://github.com/Alzaib/Traffic-Signs-Detection-Tensorflow-YOLOv3-YOLOv4
@@ -37,7 +37,7 @@ Go to https://drive.google.com/drive/folders/1j0VTD-Fo1kK-zFXpFSOILYBGtL3KuUJJ?u
 
 <br />
 
-#### Tensorflow
+#### Tensorflow (necessary)
 Need TensorFlow installed
 
 <br />
