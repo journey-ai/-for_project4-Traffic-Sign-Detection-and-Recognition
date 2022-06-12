@@ -15,6 +15,10 @@ The program contains 2 neural networks:
 <br />
 
 
+![Example 1](/examples/1.jpg)
+![Example 2](/examples/2.jpg)
+![Example 3](/examples/3.jpg)
+
 ## Prerequisites:
 
 Go to https://drive.google.com/drive/folders/1cJl0CUJXfGHbd7LQWa1pcOIzKLrf2jdf?usp=sharing
