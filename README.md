@@ -27,13 +27,15 @@ Or  https://github.com/Alzaib/Traffic-Signs-Detection-Tensorflow-YOLOv3-YOLOv4
 
 and download YOLO weight file, save as yolov3.weights and place in trafficSignDetection/yolo-coco-data folder
 
+<br />
+
 #### Retraining traffic sign recognition model (optional)
 
 If you want to retrain the traffic sign recognition model using trainingModel.py
 
 Go to https://drive.google.com/drive/folders/1j0VTD-Fo1kK-zFXpFSOILYBGtL3KuUJJ?usp=sharing and download 3 files (train.p,test.p,valid.p) and place in /trafficSignRecognition/german-traffic-signs
 
-
+<br />
 
 #### Tensorflow
 Need TensorFlow installed
