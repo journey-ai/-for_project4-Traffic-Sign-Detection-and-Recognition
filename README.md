@@ -20,13 +20,22 @@ The program contains 2 neural networks:
 ![Example 3](/examples/3.jpg)
 
 ## Prerequisites:
-
+#### Weight File for traffic sign detection
 Go to https://drive.google.com/drive/folders/1cJl0CUJXfGHbd7LQWa1pcOIzKLrf2jdf?usp=sharing
 
 Or  https://github.com/Alzaib/Traffic-Signs-Detection-Tensorflow-YOLOv3-YOLOv4
 
 and download YOLO weight file, save as yolov3.weights and place in trafficSignDetection/yolo-coco-data folder
 
+#### Retraining traffic sign recognition model (optional)
+
+If you want to retrain the traffic sign recognition model using trainingModel.py
+
+Go to https://drive.google.com/drive/folders/1j0VTD-Fo1kK-zFXpFSOILYBGtL3KuUJJ?usp=sharing and download 3 files (train.p,test.p,valid.p) and place in /trafficSignRecognition/german-traffic-signs
+
+
+
+#### Tensorflow
 Need TensorFlow installed
 
 <br />
@@ -59,11 +68,13 @@ yolo-3-video.py - Tests the YOLO network on videos in the videos folder, results
 
 Databased used was the GTSRB (German Traffic Sign Recognition Benchmark)
 
+trainingModel.py - For training the neural network
 
 road_sign2.1.h5 - The trained neural network 
 
 tester.py - Tests the network on traffic signs in the images folder
 - To change what image is tested change the path used in the cv2.imread function (5 images included)
 
+dataAug.py - Used to visualise different data augmetation techniques on a given image
 
 
