@@ -1,0 +1,25 @@
+Special credits go to the people below who massively helped the project:
+
+
+Valentyn Sichkar
+
+https://www.udemy.com/course/convolutional-neural-networks-for-image-classification/
+
+Provided the theory behind how convolutional neural networks work
+
+
+https://www.udemy.com/course/training-yolo-v3-for-objects-detection-with-custom-data/
+
+Provided the theory behind YOLO networks as well as the code for building the image and video pipelines.
+
+
+
+Alzaib
+
+https://github.com/Alzaib/Traffic-Signs-Detection-Tensorflow-YOLOv3-YOLOv4
+
+Provided the traffic sign detection model
+
+
+
+
