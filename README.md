@@ -63,8 +63,7 @@ Databased used was the GTSRB (German Traffic Sign Recognition Benchmark)
 road_sign2.1.h5 - The trained neural network 
 
 tester.py - Tests the network on traffic signs in the images folder
-- to change what image is tested change the path used in the cv2.imread function
-( 5 images included)
+- To change what image is tested change the path used in the cv2.imread function (5 images included)
 
 
 
