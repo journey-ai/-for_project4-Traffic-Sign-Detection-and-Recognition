@@ -56,6 +56,7 @@ video.py - Tests the complete network on videos in trafficSignDetection/videos f
 
 Uses YOLO3 for traffic sign detection. Database used was the GTDRB (German Traffic sign Detection Benchmark)
 
+<br />
 
 yolo-3-camera.py - Tests the YOLO network on real time camera footage
 
@@ -70,13 +71,16 @@ yolo-3-video.py - Tests the YOLO network on videos in the videos folder, results
 
 Databased used was the GTSRB (German Traffic Sign Recognition Benchmark)
 
+
+<br />
+
 trainingModel.py - For training the neural network
 
 road_sign2.1.h5 - The trained neural network 
 
-tester.py - Tests the network on traffic signs in the images folder
-- To change what image is tested change the path used in the cv2.imread function (5 images included)
-
 dataAug.py - Used to visualise different data augmetation techniques on a given image
+
+tester.py - Tests the network on traffic signs in the images folder, to change what image is tested change the path used in the cv2.imread function (5 images included)
+
 
 
